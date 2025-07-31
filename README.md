@@ -25,4 +25,4 @@ This is a simple yet effective **To-Do List desktop application** developed usin
 3. Run the Python file:
 
 ```bash
-python todo_list.py
+python Task_1.py
